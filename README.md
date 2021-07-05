@@ -1,4 +1,4 @@
-# Using Transfer Learning to classify different  Dog Breeds
+# Using Transfer Learning to classify different  dog breeds
 
 ## About the data
 
