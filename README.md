@@ -6,5 +6,7 @@ The data comes from the Kaggle dog breed identification competition ( https://ww
 
 ## Problem description
 
-This kind of problem is called multi-class image classification since we are trying to classify mutliple different breeds of dog. In particular, it will be used a pretrained model from TensorFlow Hub. In this way we leverage the patterns of another model which has been trained to classify image instead of training a model from scratch.
+This kind of problem is called multi-class image classification since we are trying to classify mutliple different breeds of dog. 
+
+In particular, it will be used a pretrained model from TensorFlow Hub so as to leverage the patterns of another model which has been trained to classify image instead of training a model from scratch.
 
